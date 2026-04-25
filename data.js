@@ -46,7 +46,7 @@ window.PORTFOLIO_DATA = {
       role: "Graduate Research Assistant",
       period: "2025 — Present",
       location: "Atlanta, GA",
-      summary: "Built a production multi-agent RAG evaluation framework for an enterprise AI chatbot.",
+      summary: "Designed an evaluation framework for a multi-agentic RAG system serving enterprise LLMs.",
       bullets: [
         "Designed an LLM-as-Judge evaluation pipeline covering 20 metrics across 50+ parameters.",
         "Implemented orchestration on AWS Bedrock with LangChain and LangSmith tracing for full observability.",
@@ -58,7 +58,7 @@ window.PORTFOLIO_DATA = {
     {
       org: "SkyHigh Adventures",
       role: "Data Analyst",
-      period: "2023 — 2024",
+      period: "2023 — 2025",
       location: "Mumbai, India",
       summary: "One year of professional analytics work — SQL, dashboards, and reporting for business stakeholders.",
       bullets: [

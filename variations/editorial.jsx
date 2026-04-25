@@ -150,7 +150,7 @@ function EditorialPortfolio({ accent = "#d97706", mode = "dark", texture = "clea
             <div className="ed-hero-side">
               <div className="ed-mono ed-label">Currently</div>
               <p className="ed-side-p">
-                Graduate Research Assistant at <strong>Truist Bank</strong>, building production-grade evaluation for an enterprise AI chatbot.
+                Graduate Research Assistant at <strong>Truist Bank</strong>, designing an evaluation framework for a multi-agentic RAG system.
               </p>
               <div className="ed-mono ed-label" style={{ marginTop: 18 }}>Studying</div>
               <p className="ed-side-p">M.S. Data Science and Analytics — Georgia State, 4.0 GPA. Graduating December 2026.</p>
