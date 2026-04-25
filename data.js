@@ -72,7 +72,7 @@ window.PORTFOLIO_DATA = {
   education: [
     {
       school: "Georgia State University — Robinson College of Business",
-      degree: "M.S. Data Analytics",
+      degree: "M.S. Data Science and Analytics",
       period: "2024 — Dec 2026",
       detail: "GPA 4.0 / 4.0",
     },
