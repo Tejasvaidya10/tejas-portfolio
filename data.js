@@ -12,7 +12,7 @@ window.PORTFOLIO_DATA = {
     author: "Carl Sagan",
   },
   about: {
-    short: "MS Data Analytics @ Georgia State (Robinson College of Business). Building production GenAI systems & evaluation frameworks. Graduating Dec 2026.",
+    short: "MS Data Science and Analytics @ Georgia State (Robinson College of Business). Building production GenAI systems & evaluation frameworks. Graduating Dec 2026.",
     long: "I work on production AI systems, currently designing multi-agent evaluation frameworks for enterprise LLMs at Truist. Before this: one year as a data analyst and an undergraduate degree in electronics and telecom engineering. Now pursuing an M.S. in Data Science and Analytics with a 4.0 GPA.",
   },
   rotators: [
