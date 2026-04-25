@@ -320,7 +320,6 @@ function EditorialPortfolio({ accent = "#d97706", mode = "dark", texture = "clea
 
         <footer className="ed-footer ed-mono">
           <span>© 2026 Tejas Vaidya</span>
-          <span>Set in Instrument Serif & Inter</span>
           <span>Atlanta, GA</span>
         </footer>
       </main>

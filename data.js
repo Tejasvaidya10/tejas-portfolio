@@ -56,7 +56,7 @@ window.PORTFOLIO_DATA = {
       stack: ["Python", "AWS Bedrock", "LangChain", "LangSmith", "RAG", "LLM-as-Judge"],
     },
     {
-      org: "Prior Industry Role",
+      org: "SkyHigh Adventures",
       role: "Data Analyst",
       period: "2023 — 2024",
       location: "Mumbai, India",
