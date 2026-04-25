@@ -13,7 +13,7 @@ window.PORTFOLIO_DATA = {
   },
   about: {
     short: "MS Data Analytics @ Georgia State (Robinson College of Business). Building production GenAI systems & evaluation frameworks. Graduating Dec 2026.",
-    long: "I work at the intersection of data science and applied machine learning — currently researching multi-agent evaluation for enterprise LLMs at Truist. Background in electronics & telecom engineering, one year as a data analyst, and a 4.0 in graduate analytics. Comfortable shipping from notebook to production.",
+    long: "I work on production AI systems, currently designing multi-agent evaluation frameworks for enterprise LLMs at Truist. Before this: one year as a data analyst and an undergraduate degree in electronics and telecom engineering. Now pursuing an M.S. in Data Analytics with a 4.0 GPA.",
   },
   rotators: [
     "Data Scientist",
