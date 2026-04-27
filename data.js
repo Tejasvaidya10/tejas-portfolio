@@ -73,13 +73,13 @@ window.PORTFOLIO_DATA = {
     {
       school: "Georgia State University — Robinson College of Business",
       degree: "M.S. Data Science and Analytics",
-      period: "2024 — Dec 2026",
+      period: "2025 — Dec 2026",
       detail: "GPA 4.0 / 4.0",
     },
     {
       school: "University of Mumbai",
       degree: "B.E. Electronics & Telecommunication Engineering",
-      period: "2019 — 2023",
+      period: "2020 — 2024",
       detail: "",
     },
   ],
