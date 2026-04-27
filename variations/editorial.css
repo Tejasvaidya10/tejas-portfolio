@@ -509,6 +509,7 @@
   .ed-strip { grid-template-columns: 1fr 1fr; margin: 24px 0 40px; }
   .ed-strip-cell { padding: 16px 0; }
   .ed-strip-val { font-size: 22px; }
+  .ed-strip-cell:last-child:nth-child(odd) { grid-column: 1 / -1; }
 
   /* Sections */
   .ed-section { padding: 44px 0; }
