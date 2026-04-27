@@ -19,7 +19,6 @@ window.PORTFOLIO_DATA = {
     "Data Scientist",
     "GenAI Engineer",
     "ML Researcher",
-    "Builder of evaluation frameworks",
   ],
   photo: "uploads/portrait.jpg",
   medium: {
