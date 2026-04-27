@@ -118,7 +118,7 @@
 
 /* Stats strip */
 .ed-strip {
-  display: grid; grid-template-columns: repeat(4, 1fr);
+  display: grid; grid-template-columns: repeat(3, 1fr);
   border-block: 1px solid var(--ed-line);
   margin: 30px 0 60px;
 }
@@ -421,6 +421,7 @@
   .ed-strip { grid-template-columns: repeat(2, 1fr); }
   .ed-strip-cell:nth-child(2) { border-right: none; }
   .ed-strip-cell:nth-child(-n+2) { border-bottom: 1px solid var(--ed-line); }
+  .ed-strip-cell:nth-child(3) { border-right: none; }
 
   /* Section heads: stack number on top */
   .ed-section { padding: 56px 0; }
