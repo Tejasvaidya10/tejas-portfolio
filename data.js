@@ -36,7 +36,6 @@ window.PORTFOLIO_DATA = {
   stats: [
     { label: "GPA", value: "4.0 / 4.0" },
     { label: "Graduating", value: "Dec 2026" },
-    { label: "Eval metrics shipped", value: "20+" },
     { label: "Open-source projects", value: "4" },
   ],
   experience: [
